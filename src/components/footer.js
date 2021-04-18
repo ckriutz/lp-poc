@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import { jsx } from 'theme-ui'
-import { Link } from "gatsby"
-import { RiHeart2Line } from "react-icons/ri";
+import FooterImg from './FooterImg'
+
 
 const Footer = () => (
   <footer 
@@ -11,7 +11,9 @@ const Footer = () => (
     }}
   >
     <div className="container">
-      <p>A GatsbyJS Starter for Netlify CMS, Made with <span className="icon -love"><RiHeart2Line/></span> by <Link to="/">Stackrole.com</Link></p>
+      <FooterImg />
+      <p>Paid for by the Libertarian Party of Union County, NC. Not authorized by any candidate or candidate's committee.</p>
+      <p>© 2021 Libertarian Party of Union County</p>
     </div>
   </footer>
 )
