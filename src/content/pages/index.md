@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Union County LP Site 🗽
-tagline: Welcome to Liberty!
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Union County LP
+tagline: Don't Tread on Me
+featuredImage: /assets/1200px-libertarian_party_porcupine_-usa-.svg.png
 cta:
-  ctaText: Know more
+  ctaText: "Learn More "
   ctaLink: /about
 ---
-This site is your go-to for anything Libertarian in Union County, NC.
+Do you believe in empowering individuals to achieve their goals? Do you think that today’s government is using a lot of our money—but not operating very effectively? If you believe in personal freedom and economic responsibility you are already one of us.
