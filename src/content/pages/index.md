@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Libertarian Party Union County
+title: Libertarian Party of Union County
 tagline: Don't Tread on Anyone
 featuredImage: /assets/gsgreytorch-grey-text-no-torch.png
 cta:
