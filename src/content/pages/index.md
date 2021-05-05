@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Union County LP
 tagline: Don't Tread on Anyone
-featuredImage: /assets/1200px-libertarian_party_porcupine_-usa-.svg.png
+featuredImage: /assets/gsgreytorch-grey-text-no-torch.png
 cta:
   ctaText: "Learn More "
   ctaLink: /about
