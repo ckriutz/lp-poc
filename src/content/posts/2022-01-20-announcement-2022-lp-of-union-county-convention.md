@@ -5,7 +5,7 @@ slug: 2022_union_co_convention
 date: 2022-01-19 20:30
 description: This is the announcement for the 2022 Libertarian Party of Union
   County Convention
-featuredImage: /assets/alpha.01-logo1.01-color.png
+featuredImage: /assets/goldflame-and-grey-text.png
 ---
 Come join the Libertarian Party of Union County for its 2022 Convention.
 
