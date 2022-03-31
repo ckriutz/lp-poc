@@ -137,9 +137,10 @@
 	font-size: 35px;
 	display: flex;
 	gap:16px;
-	margin-top: 80px;
+	margin-top: 10px;
+	text-align: center;
 	@media (max-width: $breakpoint-md) {
-		margin-top: 40px;
+		margin-top: 10px;
 	}
 }
 .home-posts {
@@ -440,6 +441,12 @@ article img {
 			display: none;
 		}
 	}
+}
+
+.registrationdata {
+	margin-top: 40px;
+	font-size: 28px;
+	text-align: center;
 }
 
 @import "utility";
