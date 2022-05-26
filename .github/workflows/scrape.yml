@@ -32,7 +32,7 @@ jobs:
         $jsonData = $Matches[0] -replace "var data = ", ''
         $countyData = ConvertFrom-Json $jsonData
         $unionCountryData = $countyData | Where-Object {$_.CountyName -eq "UNION"}
-        $unionCountryData | ConvertTo-Json | Out-File ${{ github.workspace }} + "/repo/src/data/unionCountyData.json"
+        $unionCountryData | ConvertTo-Json | Out-File "${{ github.workspace }}/repo/src/data/unionCountyData.json"
 
         echo $unionCountryData
       shell: pwsh
