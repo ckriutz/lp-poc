@@ -9,13 +9,10 @@ jobs:
   scrape-county-data:
     runs-on: ubuntu-latest
     steps:
-      - name: Script
-        run: |
-          $uri = "https://vt.ncsbe.gov/RegStat/Results/?date=05%2F21%2F2022"
-          $html = Invoke-WebRequest -Uri $uri
-          $data -match "var data = (.*?)]"
-          $jsonData = $Matches[0] -replace "var data = ", ''
-          $countyData = ConvertFrom-Json $jsonData
-          $unionCountryData = $countyData | Where-Object {$_.CountyName -eq "UNION"}
-          echo $unionCountryData
-        shell: powershell
+    - uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+        fatch-depth: 0
+    - name: Script
+      run: ./scraper.ps1
+      shell: pwsh
