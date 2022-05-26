@@ -12,7 +12,7 @@ jobs:
     - uses: actions/checkout@v2
       with:
         persist-credentials: false
-        fatch-depth: 0
+        fetch-depth: 0
     - name: Script
       run: ./scraper.ps1
       shell: pwsh
