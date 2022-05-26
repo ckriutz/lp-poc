@@ -14,5 +14,5 @@ jobs:
         persist-credentials: false
         fetch-depth: 0
     - name: Script
-      run: ./scraper.ps1
+      run: scraper.ps1
       shell: pwsh
