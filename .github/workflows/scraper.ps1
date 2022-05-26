@@ -28,7 +28,7 @@ $dateString = "$monthNumber$seperator$dayNumber$seperator$([Int] $saturday.Year)
 # Now, lets get the data and parse it.
 $uri = "https://vt.ncsbe.gov/RegStat/Results/?date=$dateString"
 $html = Invoke-WebRequest -Uri $uri
-$data -match "var data = (.*?)]"
+$data = $html -match "var data = (.*?)]"
 $jsonData = $Matches[0] -replace "var data = ", ''
 $countyData = ConvertFrom-Json $jsonData
 $unionCountryData = $countyData | Where-Object {$_.CountyName -eq "UNION"}
