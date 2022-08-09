@@ -2,7 +2,7 @@
 template: blog-post
 title: LP of Union County Fights For Justice For A Homeless Veteran
 slug: lpuc_helps_homeless_vet
-date: 2022-08-08 19:32
+date: 2022-08-09 15:39
 description: The LP of Union County has been fighting for justice for disabled
   Gastonia homeless veteran Joshua Rohrer and his deceased service dog,
   Sunshine.
