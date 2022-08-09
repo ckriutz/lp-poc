@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "ANNOUNCEMENT: 2022 LP of Union County Convention"
-slug: 2022_union_co_convention
+slug: /2022_union_co_convention
 date: 2022-01-19 20:30
 description: This is the announcement for the 2022 Libertarian Party of Union
   County Convention
