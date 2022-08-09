@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Wesley Chapel Road Cleanup
-slug: Wesley_Chapel_Road_Cleanup
+slug: /wesley_chapel_road_cleanup
 date: 2021-11-10 18:49
 description: Join the Libertarian Party of Union County as we give back to our
   community by participating in a road cleanup   in Wesley Chapel, NC

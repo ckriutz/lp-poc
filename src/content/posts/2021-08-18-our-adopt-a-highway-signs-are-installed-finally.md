@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Our Adopt A Highway signs are installed...FINALLY!
-slug: Get ready for some volunteerism
+slug: /get_ready_for_some_volunteerism
 date: 2021-08-18 19:43
 description: Get ready to volunteer as our adopt a road signs are installed.
   Pickup dates to be scheduled soon

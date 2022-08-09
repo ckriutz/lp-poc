@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Economics for Beginners
-slug: economics_for_beginners
+slug: /economics_for_beginners
 date: 2021-10-30 14:32
 description: Here is an excellent resource to get you started in understanding
   economics at a beginner level

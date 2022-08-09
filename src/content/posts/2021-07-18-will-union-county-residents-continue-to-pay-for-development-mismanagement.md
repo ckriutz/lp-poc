@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Will Union County residents continue to pay for development mismanagement?
-slug: union_county_wastewater_mismanagement
+slug: /union_county_wastewater_mismanagement
 date: 2021-07-18 11:58
 description: Union County, NC residents will likely foot the bill for a new
   wastewater plant because of local government mismanagement.

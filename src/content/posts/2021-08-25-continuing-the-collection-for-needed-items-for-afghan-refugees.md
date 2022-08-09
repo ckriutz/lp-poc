@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Continuing the collection for needed items for Afghan refugees
-slug: Collection_Drive_for_Afghan_Refugees_2
+slug: /collection_drive_for_afghan_Refugees_2
 date: 2021-08-25 19:18
 description: The Libertarian Party of Union County is proud to be part of a a
   continuing effort to collect items needed by Afghan refugees
