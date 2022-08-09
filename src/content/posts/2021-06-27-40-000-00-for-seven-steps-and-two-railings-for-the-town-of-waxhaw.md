@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: $40,000.00 for Seven Steps and Two Railings for the Town of Waxhaw?
-slug: costly_waxhaw_improvements
+slug: /costly_waxhaw_improvements
 date: 2021-06-27 13:55
 description: Residents of Waxhaw, NC may want to see what adding seven steps and
   two railings by the Town will cost them.
