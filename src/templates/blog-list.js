@@ -93,8 +93,10 @@ class BlogIndex extends React.Component {
     const blogSlug = '/blog/' 
     const isFirst = currentPage === 1
     const isLast = currentPage === numPages
-    const prevPage = currentPage - 1 === 1 ? blogSlug : blogSlug + (currentPage - 1).toString()
-    const nextPage = blogSlug + (currentPage + 1).toString()
+    // Casey's fixes go here:
+    const prevPage = currentPage - 1 === 1 ? blogSlug : (currentPage - 1).toString()
+    const nextPage = (currentPage + 1).toString()
+    // END Casey's Fixes. OMG did this work?
 
     const posts = data.allMarkdownRemark.edges
       .filter(edge => !!edge.node.frontmatter.date)
