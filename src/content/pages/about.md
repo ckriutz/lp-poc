@@ -27,11 +27,6 @@ Are you unsure if you're a Libertarian? Take [The World's Smallest Political Qui
 
 [treasurer@union.lpnc.org](mailto:treasurer@union.lpnc.org)
 
-**At Large:** Dave Dell
-
-[ddell@union.lpnc.org](mailto:ddell@union.lpnc.org)
-
 **At Large:** Chris Salley
 
 [csalley@union.lpnc.org](mailto:csalley@union.lpnc.org)
-
